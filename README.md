@@ -1,5 +1,5 @@
 # [Wave Portal](https://waveportal-starter-project.heizalnagginda.repl.co/)
-This is project demonstrates my learning process in Web3. For this project I have built a Web3 app using Solidity and Ethereum Smart Contracts.
+This is project demonstrates my learning process in Solidity. For this project I have built a Web3 app using Solidity, Reactjs and Ethereum Smart Contracts. It's a place where anyone on the internet can learn a little about who me and send me a 👋 + a message and have that data saved on the blockchain through an Ethereum smart contract.
 
 ## Languages used
 <ul>
